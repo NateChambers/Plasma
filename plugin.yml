@@ -1,0 +1,26 @@
+name: MiningExplosions
+main: me.PlasmaFighter.ExplosionToggle
+version: 1.4
+commands:
+   explosiontoggle:
+      description: Toggles mining explosions
+      usage: /<command>
+   explosionstoggle:
+      description: Toggles mining explosions
+      usage: /<command>
+   toggleexplosions:
+      description: Toggles mining explosions
+      usage: /<command>
+   te:
+      description: Toggles mining explosions
+      usage: /<command>
+   as:
+      description: Toggles autosmelt
+      usage: /<command>
+   autosmelt:
+      description: Toggles autosmelt
+      usage: /<command>
+   meconfig:
+      description: Reloads the configuration.
+      usage: /<command>
+      
